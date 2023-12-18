@@ -19,6 +19,8 @@
 
 具体可以看[项目游戏明细](https://gitee.com/microhardness/youxiyuanma/blob/master/src/App.vue)。
 
+https://gitee.com/microhardness/youxiyuanma/blob/master/.image/youxinodejs.mp4
+
 
 #### 安装教程
 
