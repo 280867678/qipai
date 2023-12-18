@@ -17,6 +17,8 @@
 
 全部为源代码适合大团队二次开发。
 
+具体可以看[项目游戏明细](https://gitee.com/microhardness/youxiyuanma/blob/master/src/App.vue)。
+
 
 #### 安装教程
 
